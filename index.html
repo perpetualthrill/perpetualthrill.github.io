@@ -9,18 +9,7 @@ layout: default
       <strong><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></strong> -
       <span class="date"><i class="icon-clock"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
     </header>
-    <div class="entry">{{ post.excerpt }}</div>
-
-    {% capture content_words %} 
-      {{ post.content | number_of_words }} 
-    {% endcapture %} 
-    {% capture excerpt_words %} 
-      {{ post.excerpt | number_of_words }} 
-    {% endcapture %} 
-    {% if excerpt_words != content_words %}
-      <p><a class="btn btn-sm btn-primary" href="{{ post.url }}" role="button">Read more <i class="fa fa-arrow-circle-right"></i></a>
-      </p>
-    {% endif %}
+    <div class="entry">{{ post.content }}</div>
   </article>
 {% endfor %}
 

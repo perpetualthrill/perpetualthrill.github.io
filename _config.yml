@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
-paginate: 5
+paginate: 10
 gems: [jekyll-paginate]
 title: Perpetual Thrill
 subtitle: Home of As One, an interactive, biofeedback driven flame effect
