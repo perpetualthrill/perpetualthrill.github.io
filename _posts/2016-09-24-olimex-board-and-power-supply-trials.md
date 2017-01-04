@@ -7,4 +7,4 @@ MOD-EKG](https://www.olimex.com/Products/Modules/Biofeedback/MOD-EKG/) board. Wh
 is too bad, because it outputs a one-byte ECG reading over UART, which fits our processing needs perfectly. For
 now, I am running on batteries for testing per this pic:
 
-![board setup]({{ site.url }}/images/DSC_0277.jpg)
+![board setup]({{ site.url }}/images/DSC_0277.JPG)

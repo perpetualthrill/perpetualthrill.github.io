@@ -6,7 +6,7 @@ a midi breakout board and a midi box on the other end. The theory is that since 
 contract](https://www.midi.org/specifications/item/midi-din-electrical-specification) the computer's noisy ground
 plane will no longer be a problem. 
 
-![midi boards and box]({{ site.url }}/images/DSC_0399.jpg)
+![midi boards and box]({{ site.url }}/images/DSC_0399.JPG)
 
 Unfortunately, this did not work. Apparently, the length of the midi cable itself acts as enough of an antenna to
 introduce noise into the system (!). When the cable is plugged in, the ECG board will not read, and when unplugged
