@@ -1,7 +1,12 @@
 theme: jekyll-theme-modernist
 paginate: 10
-gems: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
 title: Perpetual Thrill
-description: Home of As One, an interactive, biofeedback driven flame effect
-github_repo: as-one
-github_username: perpetualthrill
+author: ""
+description: "Creators of <a href='/about/'>As One</a>, an interactive, biofeedback driven flame effect"
+goodrepo: "https://github.com/perpetualthrill/as-one"
+
