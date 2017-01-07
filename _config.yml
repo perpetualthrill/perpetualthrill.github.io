@@ -1,6 +1,10 @@
 theme: jekyll-theme-modernist
 paginate: 10
-gems: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
 title: Perpetual Thrill
 author: ""
 description: Creators of As One, an interactive, biofeedback driven flame effect
