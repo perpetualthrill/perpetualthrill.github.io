@@ -4,7 +4,7 @@ title: Letter of intent submitted to Black Rock City Honoraria program
 
 It's the [first step of their grant process](http://burningman.org/culture/burning-man-arts/grants/brc-honoraria/submit_grant/)
 and is due tomorrow. The submission required a brief overview of the design and intent of this project, nothing complicated
-and all stuff I have thought though pretty well.
+and all stuff I have thought though pretty well. You can find an excerpt on the new [About page]({{ site.url }}/about/).
 
 It also required an image, so I whipped this up in Sketchup. It's a pretty close approximation, though I didn't have time to
 rebuild that anatomical heart as a steel latice, which is what the actual sculpture will look like. Also, Sketchup does not have
