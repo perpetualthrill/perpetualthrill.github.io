@@ -26,3 +26,6 @@ effect itself has two groups of heads, one roughly occupying the volume of the
 heart’s ventricles, and the other occupying the aorta.
 
 ![3d mockup of as one installation]({{ site.url }}/images/as-one-loi.jpg)
+
+![more complete mockup with measurements]({{ site.url }}/images/as-one-final-layout-measurements.png)
+
