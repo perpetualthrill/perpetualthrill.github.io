@@ -1,12 +1,13 @@
-theme: jekyll-theme-modernist
+theme: "jekyll-theme-modernist"
 paginate: 10
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
 
-title: Perpetual Thrill
-author: ""
+title: "Perpetual Thrill"
+author: "Perpetual Thrill"
 description: "Creators of <a href='/about/'><em>As One</em></a>, an interactive, biofeedback driven flame installation"
 goodrepo: "https://github.com/perpetualthrill/as-one"
+timezone: "US/Pacific"
 
